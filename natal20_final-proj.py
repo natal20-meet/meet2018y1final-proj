@@ -238,7 +238,6 @@ pic8.onclick(poor_flip2)
 pic11.onclick(plastic_flip1)
 pic16.onclick(plastic_flip2)
 
-
           
 turtle.mainloop() 
 
